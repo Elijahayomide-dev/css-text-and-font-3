@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+#background-image {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),  url(./images/pexels-mintworkspace-20213729\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 270px;
+    margin-bottom: 200px;
+}
+
+.header{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 200px;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#btn{
+    color: #ffffff;
+    background-color: teal;
+    margin-left: 600px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
